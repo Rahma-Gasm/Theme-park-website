@@ -15,10 +15,10 @@ Theme park system that provide following features:
 - Manager Page
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/58330569/172018894-b902ea81-5327-40ad-80d2-3fbb22f1d889.png">
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172018940-759763fc-5b99-4a9e-af3d-b2ab685e06f1.png">
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172018967-e72a90ab-9920-437a-a62d-03ec65d4a1ee.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172019078-a00ae299-0269-4b6d-9324-03faaef31967.png">
 
 - Visitor Page 
-<img width="1155" alt="Screen Shot 2021-07-17 at 1 52 00 PM" src="https://user-images.githubusercontent.com/58330569/126034628-4ddd381a-2845-4425-9617-5c622104f5c4.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172019007-5a5f0fc1-7217-4410-a6ca-4aa3ece755e9.png">
 
 - Remove student  
 <img width="1345" alt="Screen Shot 2021-07-17 at 2 20 50 PM" src="https://user-images.githubusercontent.com/58330569/126035234-f0b0149b-9ff7-42c9-a6eb-8e16fe81ab3c.png">
