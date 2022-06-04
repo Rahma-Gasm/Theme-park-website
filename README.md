@@ -19,14 +19,20 @@ Theme park system that provide following features:
 
 - Visitor Page 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172019007-5a5f0fc1-7217-4410-a6ca-4aa3ece755e9.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172019178-5c53e5f6-f885-4510-b6c5-b574285c9b76.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172019198-acc509cc-0d5e-4883-8c95-733df1251e2e.png">
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/58330569/172019220-f27c5e01-3776-49b4-8258-1fe0c88cce83.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/58330569/172019246-897fe450-0762-42e2-a8a2-ca2f0b5b1782.png">
 
-- Remove student  
-<img width="1345" alt="Screen Shot 2021-07-17 at 2 20 50 PM" src="https://user-images.githubusercontent.com/58330569/126035234-f0b0149b-9ff7-42c9-a6eb-8e16fe81ab3c.png">
+- Ski Page
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/58330569/172019265-d94b11d2-a429-4d93-ae34-909111fc4685.png">
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/58330569/172019286-61c9bb33-fb8f-4a5f-8398-69e07b3ae5ee.png">
 
-- EXIT from program
-<img width="1025" alt="Screen Shot 2021-07-17 at 2 43 37 PM" src="https://user-images.githubusercontent.com/58330569/126035776-52e282d9-0e47-49a0-a42a-97cfd45dac81.png">
+- Restaurant Page
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/58330569/172019296-5724aaee-4f4d-4f2e-96fb-892bf28e782b.png">
+
 
 ## Installation 
-Step 1: Download Netbeans app from here https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html                            
+Step 1: Download Netbeans app from here https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html                         
 Step 2: Download this project from github.                                                                                                           
 Step 3: At the top of the page in the NetBeans application, click on Open a project and choose the project you downloaded from github (Note project should be unzipped.
