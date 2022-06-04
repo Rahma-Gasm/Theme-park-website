@@ -1,0 +1,46 @@
+ticket price adult
+90
+ticket price child
+45
+contact number
+9200100
+work hours
+Everyday from 5:00PM to 12:00AM
+ski ticket price
+65
+username
+mohammed
+password
+theme123
+transport
+small car 
+200
+medium car
+300
+large car
+400
+Al-naeem
+50
+Al-zahra'a
+50
+Al-mohammadiyyah
+60
+Al-basateen
+70
+As salamah
+60
+Arrawdah
+80
+number of ticket Adult
+300
+number of ticket child
+200
+number of ski ticket
+30
+contact number
+9200100
+work hours 
+Everyday from 5:00PM to 12:00AM
+
+
+
